@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A Probot Application 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+A fake probot repository used by a github learning lab course
 
 ## Getting started
 
